@@ -24,6 +24,7 @@
   - RESTful API 설계 및 구현
   - 데이터베이스 스키마 디자인 및 최적화
   - 게시물 등록 및 Open AI를 활용한 사용내역 조언 구현
+  - MyBatis를 활용한 데이터 접근 계층 개발
 - [GitHub 레포지토리](https://github.com/0ung/moneybug)
 - [프로젝트 문서](https://example.com/donbulre-docs)
 
@@ -53,3 +54,7 @@
   - 테스트 케이스 작성 및 버그 수정
 - [GitHub 레포지토리](https://github.com/0ung/Nutrition-Pirates)
 - [프로젝트 문서](https://example.com/mesproject-docs)
+
+## 연락처
+
+- Email: [gupo941020@naver.com](mailto:gupo941020@naver.com)
