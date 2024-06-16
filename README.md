@@ -24,7 +24,7 @@
   - RESTful API 설계 및 구현
   - 데이터베이스 스키마 디자인 및 최적화
   - 게시물 등록 및 Open AI를 활용한 사용내역 조언 구현
-- [GitHub 레포지토리](https://github.com/username/donbulre-friends)
+- [GitHub 레포지토리](https://github.com/0ung/moneybug)
 - [프로젝트 문서](https://example.com/donbulre-docs)
 
 #### 2. DreamBuilder(풀스택)
@@ -38,7 +38,8 @@
   - JWT를 활용하여 인증/인가 구현
   - 게시물 파일 및 이미지 등록 구현  
   - 프로젝트 nginx를 활용한 배포 진행
-- [GitHub 레포지토리](https://github.com/username/dreambuilder)
+  
+- [GitHub 레포지토리](https://github.com/0ung/dreamBuilder)
 - [프로젝트 문서](https://example.com/dreambuilder-docs)
 
 #### 3. MESproject(백엔드)
@@ -50,5 +51,5 @@
   - 데이터 처리 및 분석 기능 구현
   - 시스템 성능 최적화 및 스케일링
   - 테스트 케이스 작성 및 버그 수정
-- [GitHub 레포지토리](https://github.com/username/mesproject)
+- [GitHub 레포지토리](https://github.com/0ung/Nutrition-Pirates)
 - [프로젝트 문서](https://example.com/mesproject-docs)
